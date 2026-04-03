@@ -1,0 +1,74 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "API integration",
+      "description": "Connect frontend to REST API endpoints",
+      "column": "todo",
+      "priority": "MEDIUM"
+    },
+    {
+      "id": 2,
+      "title": "Unit tests",
+      "description": "Write tests for utility functions and hooks",
+      "column": "in_review",
+      "priority": "LOW"
+    },
+    {
+      "id": 3,
+      "title": "Performance audit",
+      "description": "Lighthouse scores and bundle analysis",
+      "column": "in_progress",
+      "priority": "HIGH"
+    },
+    {
+      "id": 4,
+      "title": "Notification system",
+      "description": "Toast notifications and in-app alerts",
+      "column": "done",
+      "priority": "MEDIUM"
+    },
+    {
+      "id": 5,
+      "title": "User settings page",
+      "description": "Profile editing, preferences, and account management",
+      "column": "in_progress",
+      "priority": "LOW"
+    },
+    {
+      "id": 6,
+      "title": "Authentication flow",
+      "description": "Implement login, signup, and password reset screens",
+      "column": "done",
+      "priority": "HIGH"
+    },
+    {
+      "id": 7,
+      "title": "Payment gateway",
+      "description": "Integrate Stripe for premium subscriptions",
+      "column": "todo",
+      "priority": "HIGH"
+    },
+    {
+      "id": 8,
+      "title": "Responsive header",
+      "description": "Fix mobile navigation hamburger menu",
+      "column": "in_review",
+      "priority": "LOW"
+    },
+    {
+      "id": 9,
+      "title": "Dashboard layout",
+      "description": "Build responsive sidebar and main content area",
+      "column": "in_review",
+      "priority": "MEDIUM"
+    },
+    {
+      "id": 10,
+      "title": "Design system tokens",
+      "description": "Set up color palette, typography, and spacing scales",
+      "column": "todo",
+      "priority": "HIGH"
+    }
+  ]
+}
